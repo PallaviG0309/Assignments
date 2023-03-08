@@ -6,9 +6,18 @@ public class Type_Casting {
 	{
 		// TODO Auto-generated method stub
 	/*what is type casting?
-       Ans: Type casting is when you assign a value of one data type to another type.*/
+       Ans: Type casting is when you assign a value of one data type to another type.
+       EX-  
+    create double type variable*/
+    double a = 10.99;
+    System.out.println(a);// output is 10.99 because it accept double value
+
+    // convert into int type
+    int b1= (int)a;
+    System.out.println(b1); //output=10 because it accept only interger value 
 		
-		/* int ln= 1234_2343_22376; - This in invalid because of int data type can't accept the long values*/
+		
+    /* int ln= 1234_2343_22376; - This in invalid because of int data type can't accept the long values*/
 		
 		/*	byte b2 = 128;
 		System.out.println(b2);
