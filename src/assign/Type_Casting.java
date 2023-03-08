@@ -14,7 +14,19 @@ public class Type_Casting {
 
     // convert into int type
     int b1= (int)a;
-    System.out.println(b1); //output=10 because it accept only interger value 
+    System.out.println(b1); //output=10 because it accept only integer value 
+    
+ /* What is output of this  
+    byte b1 = (byte)250;
+	byte b1 = (byte)120;
+	byte b1 = (byte)130;
+	byte b1 = (byte)300;
+	System.out.println(b1);
+	/* will get compile error because of duplicate local variables as we can't declare one variable name multiple times */
+   
+   
+
+
 		
 		
     /* int ln= 1234_2343_22376; - This in invalid because of int data type can't accept the long values*/
