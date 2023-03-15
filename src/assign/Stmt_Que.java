@@ -17,6 +17,7 @@ public class Stmt_Que {
 		        	 print of=20
 		    		 print of=32*/
 
+		    
 	}
 	
 

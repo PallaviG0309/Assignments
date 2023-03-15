@@ -24,11 +24,7 @@ public class Type_Casting {
 	System.out.println(b1);
 	/* will get compile error because of duplicate local variables as we can't declare one variable name multiple times */
    
-   
-
-
-		
-		
+  		
     /* int ln= 1234_2343_22376; - This in invalid because of int data type can't accept the long values*/
 		
 		/*	byte b2 = 128;
