@@ -6,6 +6,7 @@ public class Lkg {
 		// TODO Auto-generated method stub
 		System.out.println("error");
 		System.out.println("Hi");
+		
 
 	}
 	
