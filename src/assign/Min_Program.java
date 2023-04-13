@@ -8,7 +8,7 @@ public class Min_Program {
 	        int Hr_m = seconds / 60;
 	        int Min = Hr_m % 60;
 	        int	Hr = Hr_m / 60;
-	        System.out.print( Hr + "Hour  " + Min + "Minute  " + Sec +  "second");
+	       System.out.print( Hr + "Hour  " + Min + "Minute  " + Sec +  "second");
 
 	}
 
