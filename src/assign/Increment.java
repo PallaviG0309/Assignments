@@ -15,7 +15,6 @@ public class Increment {
 			System.out.println(i);
 									
 			boolean bool = true;
-			int a = (bool) ? 1:0;
 			System.out.println(bool);
 
 
